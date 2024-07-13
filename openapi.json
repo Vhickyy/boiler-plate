@@ -349,6 +349,9 @@
         }
       },
       "get": {
+        "tags": [
+          "Organisations"
+        ],
         "summary": "List organizations",
         "security": [
           {
@@ -446,6 +449,9 @@
         }
       },
       "put": {
+        "tags": [
+          "Organisations"
+        ],
         "summary": "Update an organization",
         "security": [
           {
@@ -479,6 +485,9 @@
         }
       },
       "delete": {
+        "tags": [
+          "Organisations"
+        ],
         "summary": "Delete an organization",
         "security": [
           {
@@ -537,6 +546,9 @@
         }
       },
       "put": {
+        "tags": [
+          "Users"
+        ],
         "summary": "Update user details",
         "security": [
           {
@@ -570,6 +582,9 @@
         }
       },
       "delete": {
+        "tags": [
+          "Users"
+        ],
         "summary": "Delete an User",
         "security": [
           {
@@ -1247,6 +1262,9 @@
         }
       },
       "put": {
+        "tags": [
+          "Settings"
+        ],
         "summary": "Update user settings",
         "security": [
           {
@@ -1310,6 +1328,9 @@
         }
       },
       "get": {
+        "tags": [
+          "Notifications"
+        ],
         "summary": "Get notifications",
         "security": [
           {
